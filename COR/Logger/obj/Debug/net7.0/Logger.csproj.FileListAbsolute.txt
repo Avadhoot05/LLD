@@ -1,0 +1,15 @@
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.csproj.AssemblyReference.cache
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.AssemblyInfoInputs.cache
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.AssemblyInfo.cs
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\khede\Desktop\LLD\COR\Logger\bin\Debug\net7.0\Logger.exe
+C:\Users\khede\Desktop\LLD\COR\Logger\bin\Debug\net7.0\Logger.deps.json
+C:\Users\khede\Desktop\LLD\COR\Logger\bin\Debug\net7.0\Logger.runtimeconfig.json
+C:\Users\khede\Desktop\LLD\COR\Logger\bin\Debug\net7.0\Logger.dll
+C:\Users\khede\Desktop\LLD\COR\Logger\bin\Debug\net7.0\Logger.pdb
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.dll
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\refint\Logger.dll
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.pdb
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\Logger.genruntimeconfig.cache
+C:\Users\khede\Desktop\LLD\COR\Logger\obj\Debug\net7.0\ref\Logger.dll
